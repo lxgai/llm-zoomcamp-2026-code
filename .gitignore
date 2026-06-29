@@ -2,7 +2,7 @@
 .env
 
 faq.db*
-*.db
-*.db-shm
-*.db-wal
+*.db*
 
+__pycache__/
+*.py[cod]
